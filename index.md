@@ -22,9 +22,7 @@
       <h1> Why Programming</h1>
       <p>&nbsp;With my varied educational background some might wonder how I ended up in programming. Simply put I enjoy a challenge I seek something that challenges me and my active mind. The challenging and ever changing aspects that make up computer programming offer not only a continously challenging subject but help satisfy my thirst for always challenging and growing my education.</p>
       <footer><a href="https://github.com/Lykaios13"> Github</a>
-      &diams;
           <a href="https://www.facebook.com/Lykaios13"> Facebook</a>
-          &diams;
           <a href="https://www.linkedin.com/in/stephen-michael-fusilier-32a5a4136/">LinkedIn</a>
       </footer>
     </body>
