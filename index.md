@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Lykaios13/InfiniteAlpha/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lykaios13/InfiniteAlpha/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Stephen Michael Fusilier|Home</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+  <header>
+    <nav>
+      <a href="index.html"> Home</a>
+      <a href="portfolio.html">Portfolio</a>
+      <a href="contact">Contact</a>
+    </nav>
+  </header>
+  <img src="https://www.facebook.com/photo.php?fbid=4458560016590.jpg" alt="Profile Image" width="128" height="128">
+      <br>
+      <h1>Introduction</h1> 
+      <p>&nbsp;My name is Stephen Michael Fusilier, I am programming student at CoderCamps. Beginning what is I'm sure to be a lifelong learning experience; I always enjoy and look forward to new oppotunities to broaden my knowledge</p>
+      <h1>Background</h1>
+      <p>&nbsp;I began my educational journey at the University of Arizona with Business Management, then returning to my home in Yuma,AZ to study criminal justice. After recieving my A.A.S. in Administration of Justice I took a year off only to return and began Animal Science studies with a brief stint in Accounting at Mesa Community College. I eventually found my way to Pima Medical Institute to take and complete their Veterinary Assisting course. Eventually this path led me to CoderCamps to begin what I can only describe as an exciting journey into programming.</p>
+      <h1> Why Programming</h1>
+      <p>&nbsp;With my varied educational background some might wonder how I ended up in programming. Simply put I enjoy a challenge I seek something that challenges me and my active mind. The challenging and ever changing aspects that make up computer programming offer not only a continously challenging subject but help satisfy my thirst for always challenging and growing my education.</p>
+      <footer><a href="https://github.com/Lykaios13"> Github</a>
+      &diams;
+          <a href="https://www.facebook.com/Lykaios13"> Facebook</a>
+          &diams;
+          <a href="https://www.linkedin.com/in/stephen-michael-fusilier-32a5a4136/">LinkedIn</a>
+      </footer>
+    </body>
+</html>
